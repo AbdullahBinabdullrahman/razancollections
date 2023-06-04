@@ -15,7 +15,7 @@ const Header = () => {
       initial="hidden"
       animate="visible"
     >
-      <h1 className="text-white display-4">Razan's Collections</h1>
+      <h1 className="text-white display-4">{`Razan's Collections`}</h1>
       <p className="text-white-50 lead">Breathtaking Collections for You</p>
     </motion.header>
   );
